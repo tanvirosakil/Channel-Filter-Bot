@@ -17,6 +17,6 @@ connections - Get connected channels list
 
 #### Credits :-
 
-[CyniteOfficial](https://github.com/cyniteofficial) - Developer
+[tanvirosakil](https://github.com/cyniteofficial) - Developer
 
 [@GreyMatter_Bots](https://www.telegram.dog/GreyMatter_Bots) - Me For Promoting This Open Source Project.
